@@ -148,7 +148,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
  */
 [_SPEC] = LAYOUT_planck_grid(
     _______ ,RGB_TOG ,RGB_HUI ,CK_TOGG ,CK_UP   ,XXXXXXX ,XXXXXXX ,XXXXXXX ,XXXXXXX ,XXXXXXX ,XXXXXXX ,_______ ,
-    _______ ,RGB_MOD ,RGB_SAI ,CK_RST  ,CK_DOWN ,XXXXXXX ,XXXXXXX ,XXXXXXX ,XXXXXXX ,XXXXXXX ,XXXXXXX ,_______ ,
+    _______ ,RGB_MOD ,RGB_SAI ,CK_RST  ,CK_DOWN ,XXXXXXX ,KC_HOME ,KC_PGDN ,KC_PGUP ,KC_END  ,XXXXXXX ,_______ ,
     _______ ,RGB_RMOD,RGB_VAI ,XXXXXXX ,XXXXXXX ,XXXXXXX ,XXXXXXX ,XXXXXXX ,XXXXXXX ,XXXXXXX ,XXXXXXX ,XXXXXXX ,
     _______ ,_______ ,_______ ,_______ ,_______ ,_______ ,_______ ,_______ ,_______ ,XXXXXXX ,XXXXXXX ,XXXXXXX
 )
